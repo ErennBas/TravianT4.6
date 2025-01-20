@@ -21,3 +21,5 @@ search for
 YOUR_DOMAIN
 USERNAME_HERE
 REDACTED
+
+Hiii! i want to use on my local if we can, or on server.
